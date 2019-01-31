@@ -1,6 +1,6 @@
 RimWorld Italian
 ================
-Target Version: 1.0.1961
+Target Version: 1.0.2150
 
 This is the Italian translation data for RimWorld.
 See this page for license info:
@@ -9,6 +9,10 @@ http://ludeon.com/forums/index.php?topic=2933.0
 TRADUTTORI:
 ------------------
 - Harkeidos
+- Lagorn
+- ChristianLJB
+- Panic04
+- menos-grande
 
 INSTALLAZIONE:
 ------------------
