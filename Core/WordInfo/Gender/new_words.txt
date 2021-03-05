@@ -1,0 +1,50 @@
+antichi neutrali
+antichi ostili
+artigli
+artigli potenziati
+bacche
+blocchi di ardesia
+blocchi di arenaria
+blocchi di calcare
+blocchi di granito
+blocchi di marmo
+bombe molotov
+canne
+cavi elettrici impermeabili
+cespugli bassi
+componenti
+componenti avanzati
+detriti di edifici
+detriti rocciosi
+erbe mediche
+farmaci
+farmaci avanzati
+foglie di psicoide
+foglie di smokeleaf
+granate a frammentazione
+granate emp
+indumenti tribali
+insetti
+liane
+macchinari compattati
+mandibole
+nuovi arrivati
+pantaloni
+pantaloni antiproiettile
+patate
+pezzi di macchine
+piastrelle d'oro (progetto)
+piastrelle metallica (costruzione)
+piastrelle metallica (progetto)
+residui sparsi
+rocce crollate
+rocce in rilievo
+rovi
+sacchi di sabbia
+sacchi di sabbia (costruzione)
+sacchi di sabbia (progetto)
+sacchi di sabbia sparsi
+trattative di pace
+zanne affilate
+zanne velenifere
+zanne velenose
